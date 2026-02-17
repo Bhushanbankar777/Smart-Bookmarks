@@ -1,0 +1,186 @@
+[00:00:02.216] Server  LOG     ✓ Ready in 1601ms
+[00:00:09.840] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:10.087] Browser WARN    @supabase/gotrue-js: Session as retrieved from URL was issued over 120s ago, URL could be stale 1771332925 1771336525 1771333396
+[00:00:18.271] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:28.384] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:02.698] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:05.276] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:29.172] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:41.439] Server  LOG     ✓ Compiled in 687ms
+[00:04:49.492] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./lib/supabase.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:04:49.527] Server  LOG     ✓ Compiled in 41ms
+[00:04:50.200] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:20.556] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:30.042] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:35.388] Server  LOG       Reload env: .env.local
+[00:06:35.448] Server  LOG     ✓ Compiled in 16ms
+[00:06:35.580] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./lib/supabase.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:06:36.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:43.219] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:46.420] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:51.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:59.638] Server  LOG       Reload env: .env.local
+[00:06:59.700] Server  LOG     ✓ Compiled in 19ms
+[00:06:59.825] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./lib/supabase.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:07:00.278] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:08.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:18.898] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:09.206] Server  LOG     ✓ Compiled in 35ms
+[00:10:42.342] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:09.159] Server  LOG       Reload env: .env.local
+[00:14:09.425] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./lib/supabase.ts changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:14:09.427] Server  LOG     ✓ Compiled in 0ms
+[00:14:09.979] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:27.996] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:38.017] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:41.207] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:14:41.500] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:16:19.605] Server  LOG     ✓ Compiled in 46ms
+[00:16:19.656] Server  LOG     ✓ Compiled in 39ms
+[00:16:26.842] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./lib/auth-context.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:27.154] Server  LOG     ✓ Compiled in 42ms
+[00:16:27.513] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:28.235] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:16:29.239] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:16:29.239] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:16:29.239] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:16:29.239] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:16:29.239] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:16:29.239] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:16:30.597] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./lib/auth-context.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:30.833] Server  LOG     ✓ Compiled in 25ms
+[00:16:31.211] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:33.231] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:16:33.232] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:16:33.232] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:16:33.232] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:16:33.232] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:16:33.232] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:16:33.232] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:16:33.232] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:33.355] Server  LOG     ✓ Compiled in 27ms
+[00:17:43.905] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:44.703] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:17:44.703] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:47.796] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:48.058] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:48.058] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:48.364] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:17:48.364] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:48.604] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:17:48.604] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:48.833] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:17:48.833] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:59.694] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:59.942] Browser LOG     Session found, redirecting to dashboard
+[00:17:59.942] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:17:59.942] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:00.312] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:18:00.312] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:00.547] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:18:00.547] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:02.525] Browser LOG     Auth state changed: {"event":"SIGNED_OUT","sessionExists":false}
+[00:18:12.323] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:13.456] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:13.456] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:13.456] Browser LOG     Session found, redirecting to dashboard
+[00:18:13.456] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:13.457] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:13.996] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:18:13.997] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:14.297] Browser ERROR   Supabase error details: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:18:14.297] Browser ERROR   Failed to fetch bookmarks: {"error":{"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"},"errorString":"[object Object]","userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:18:53.421] Server  LOG     ✓ Compiled in 29ms
+[00:19:26.631] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:19:26.631] Browser LOG     Fetching bookmarks for user: ef3e7241-359e-4255-9b21-87f8e0bc9a3d
+[00:19:27.484] Browser ERROR   Supabase error: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:19:27.484] Browser ERROR   Error message: Could not find the table 'public.bookmarks' in the schema cache
+[00:19:27.484] Browser ERROR   Error code: PGRST205
+[00:19:27.484] Browser ERROR   Error details: null
+[00:19:27.484] Browser ERROR   Error hint: null
+[00:19:27.484] Browser ERROR   Failed to fetch bookmarks error: Failed to fetch bookmarks: Could not find the table 'public.bookmarks' in the schema cache
+[00:19:27.484] Browser ERROR   Full error: {}
+[00:19:45.843] Browser LOG     Auth state changed: {"event":"SIGNED_OUT","sessionExists":false}
+[00:19:48.412] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:48.649] Browser LOG     Auth initialized: {"sessionExists":false}
+[00:19:48.649] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":false}
+[00:19:56.577] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:57.232] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:19:57.232] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:19:57.232] Browser LOG     Session found, redirecting to dashboard
+[00:19:57.232] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:19:57.232] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:19:57.436] Browser LOG     Fetching bookmarks for user: ef3e7241-359e-4255-9b21-87f8e0bc9a3d
+[00:19:57.436] Browser LOG     Fetching bookmarks for user: ef3e7241-359e-4255-9b21-87f8e0bc9a3d
+[00:19:57.809] Browser ERROR   Supabase error: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:19:57.809] Browser ERROR   Error message: Could not find the table 'public.bookmarks' in the schema cache
+[00:19:57.809] Browser ERROR   Error code: PGRST205
+[00:19:57.809] Browser ERROR   Error details: null
+[00:19:57.809] Browser ERROR   Error hint: null
+[00:19:57.809] Browser ERROR   Failed to fetch bookmarks error: Failed to fetch bookmarks: Could not find the table 'public.bookmarks' in the schema cache
+[00:19:57.809] Browser ERROR   Full error: {}
+[00:19:58.057] Browser ERROR   Supabase error: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:19:58.057] Browser ERROR   Error message: Could not find the table 'public.bookmarks' in the schema cache
+[00:19:58.057] Browser ERROR   Error code: PGRST205
+[00:19:58.057] Browser ERROR   Error details: null
+[00:19:58.057] Browser ERROR   Error hint: null
+[00:19:58.057] Browser ERROR   Failed to fetch bookmarks error: Failed to fetch bookmarks: Could not find the table 'public.bookmarks' in the schema cache
+[00:19:58.057] Browser ERROR   Full error: {}
+[00:20:24.560] Server  LOG     ✓ Compiled in 24ms
+[00:20:25.698] Server  LOG     ✓ Compiled in 26ms
+[00:20:27.504] Server  LOG     ✓ Compiled in 26ms
+[00:20:33.203] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:20:33.999] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:20:50.970] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:51.234] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:20:51.234] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:20:51.501] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:20:51.805] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:20:52.033] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:22:02.242] Server  LOG     ✓ Compiled in 45ms
+[00:22:26.865] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:22:27.922] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"} {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:22:37.854] Browser LOG     Auth state changed: {"event":"SIGNED_OUT","sessionExists":false}
+[00:22:46.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:46.735] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:22:46.735] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:22:46.735] Browser LOG     Session found, redirecting to dashboard
+[00:22:46.735] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:22:46.735] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:22:47.294] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"} {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:22:47.564] Browser ERROR   Failed to fetch bookmarks: {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"} {"code":"PGRST205","details":null,"hint":null,"message":"Could not find the table 'public.bookmarks' in the schema cache"}
+[00:28:40.877] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:28:43.973] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:44.294] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:28:44.294] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:30:40.674] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:31:58.029] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:18.200] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:25.677] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:25.861] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:25.861] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:26.231] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:28.076] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:28.229] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:29.027] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:29.230] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:46.792] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:47.237] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:48.840] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:49.232] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:51.627] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:52.232] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:53.130] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:53.233] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:54.184] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:33:54.232] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:34:01.968] Browser LOG     Auth state changed: {"event":"SIGNED_OUT","sessionExists":false}
+[00:34:02.229] Browser LOG     Auth state changed: {"event":"SIGNED_OUT","sessionExists":false}
+[00:34:23.140] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:23.618] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:34:23.618] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:34:23.618] Browser LOG     Session found, redirecting to dashboard
+[00:34:23.618] Browser LOG     Auth initialized: {"sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:34:23.618] Browser LOG     Auth state changed: {"event":"INITIAL_SESSION","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:34:24.232] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
+[00:34:24.232] Browser LOG     Auth state changed: {"event":"SIGNED_IN","sessionExists":true,"userId":"ef3e7241-359e-4255-9b21-87f8e0bc9a3d"}
